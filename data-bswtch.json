@@ -366,193 +366,193 @@
                 "destination": "Mangalore"
             },
             {
-                "Time": "01:07",
+                "Time": "13:07",
                 "Name": "Christa Jyothi",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "01:10",
+                "Time": "13:10",
                 "Name": "Navadurga Prasad",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "01:21",
+                "Time": "13:21",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "01:30",
+                "Time": "13:30",
                 "Name": "Kanthi",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "01:32",
+                "Time": "13:32",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "01:43",
+                "Time": "13:43",
                 "Name": "Kanthi",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "01:50",
+                "Time": "13:50",
                 "Name": "Bharathi",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "01:59",
+                "Time": "13:59",
                 "Name": "Laxmi Ganesh",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "02:00",
+                "Time": "14:00",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "02:07",
+                "Time": "14:07",
                 "Name": "Sangam",
                 "Type": "Local",
                 "destination": "Mulki"
             },
             {
-                "Time": "02:10",
+                "Time": "14:10",
                 "Name": "Sangam",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "02:15",
+                "Time": "14:15",
                 "Name": "Laxmi Ganesh",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "02:34",
+                "Time": "14:34",
                 "Name": "Pranam",
                 "Type": "Local",
                 "destination": "Kateel"
             },
             {
-                "Time": "02:37",
+                "Time": "14:37",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "02:44",
+                "Time": "14:44",
                 "Name": "Navadurga Prasad",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "02:55",
+                "Time": "14:55",
                 "Name": "Pranam",
                 "Type": "Local",
                 "destination": "Kateel"
             },
             {
-                "Time": "02:57",
+                "Time": "14:57",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "03:05",
+                "Time": "15:05",
                 "Name": "Reshma",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "03:12",
+                "Time": "15:12",
                 "Name": "Christa Jyothi",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "03:16",
+                "Time": "15:16",
                 "Name": "Star",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "03:20",
+                "Time": "15:20",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "03:31",
+                "Time": "15:31",
                 "Name": "Naveen",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "03:33",
+                "Time": "15:33",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "03:43",
+                "Time": "15:43",
                 "Name": "Sangam",
                 "Type": "Fast Service - Local",
                 "destination": "Padubidri"
             },
             {
-                "Time": "03:45",
+                "Time": "15:45",
                 "Name": "Naveen",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "03:48",
+                "Time": "15:48",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "03:54",
+                "Time": "15:54",
                 "Name": "Naveen",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "03:59",
+                "Time": "15:59",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "04:10",
+                "Time": "16:10",
                 "Name": "Ayra",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "04:19",
+                "Time": "16:19",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "04:25",
+                "Time": "16:25",
                 "Name": "Naveen",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "04:29",
+                "Time": "16:29",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
@@ -564,61 +564,61 @@
                 "destination": "Padubidri"
             },
             {
-                "Time": "04:35",
+                "Time": "16:35",
                 "Name": "Sai Ram",
                 "Type": "Fast Service - Local",
                 "destination": "Padubidri"
             },
             {
-                "Time": "04:41",
+                "Time": "16:41",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "04:49",
+                "Time": "16:49",
                 "Name": "Shree Padma",
                 "Type": "Local",
                 "destination": "Udupi via Kapu"
             },
             {
-                "Time": "04:56",
+                "Time": "16:56",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "05:02",
+                "Time": "17:02",
                 "Name": "Mercy",
                 "Type": "Local",
                 "destination": "Mangalore"
             },
             {
-                "Time": "05:07",
+                "Time": "17:07",
                 "Name": "Navadurga Prasad",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "05:20",
+                "Time": "17:20",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "05:21",
+                "Time": "17:21",
                 "Name": "Shree Padma",
                 "Type": "Local",
                 "destination": "Udupi"
             },
             {
-                "Time": "05:22",
+                "Time": "17:22",
                 "Name": "Navadurga Prasad",
                 "Type": "Express",
                 "destination": "Mangalore"
             },
             {
-                "Time": "05:38",
+                "Time": "17:38",
                 "Name": "Vishal",
                 "Type": "Express",
                 "destination": "Mangalore"
@@ -859,235 +859,235 @@
                 "source": "Mangalore"
             },
             {
-                "Time": "01:03",
+                "Time": "13:03",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "01:10",
+                "Time": "13:10",
                 "Name": "Milan",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "01:16",
+                "Time": "13:16",
                 "Name": "Sangam",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "01:20",
+                "Time": "13:20",
                 "Name": "Keerthi",
                 "Type": "Fast Service - Local",
                 "source": "Udupi"
             },
             {
-                "Time": "01:23",
+                "Time": "13:23",
                 "Name": "Laxmi Ganesh",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "01:35",
+                "Time": "13:35",
                 "Name": "Reshma",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "01:43",
+                "Time": "13:43",
                 "Name": "Christa Jyothi",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "01:49",
+                "Time": "13:49",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "02:06",
+                "Time": "14:06",
                 "Name": "Pranam",
                 "Type": "Local",
                 "source": "Kateel"
             },
             {
-                "Time": "02:08",
+                "Time": "14:08",
                 "Name": "Padmambikaa",
                 "Type": "Express, UC",
                 "source": "Mangalore"
             },
             {
-                "Time": "02:15",
+                "Time": "14:15",
                 "Name": "Sangam",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "02:25",
+                "Time": "14:25",
                 "Name": "Rashmi Travels",
                 "Type": "Local",
                 "source": "Kateel"
             },
             {
-                "Time": "02:36",
+                "Time": "14:36",
                 "Name": "Naveen",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "02:38",
+                "Time": "14:38",
                 "Name": "Vishal",
                 "Type": "Express, UC",
                 "source": "Mangalore"
             },
             {
-                "Time": "02:51",
+                "Time": "14:51",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "02:52",
+                "Time": "14:52",
                 "Name": "Christa Kiran",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "03:06",
+                "Time": "15:06",
                 "Name": "Naveen",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "03:09",
+                "Time": "15:09",
                 "Name": "Padmambikaa",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "03:23",
+                "Time": "15:23",
                 "Name": "Naveen",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "03:25",
+                "Time": "15:25",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "03:28",
+                "Time": "15:28",
                 "Name": "Ayra",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "03:32",
+                "Time": "15:32",
                 "Name": "Shree Padma",
                 "Type": "Local, UC",
                 "source": "Udupi via Kapu"
             },
             {
-                "Time": "03:40",
+                "Time": "15:40",
                 "Name": "Sangam",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "03:43",
+                "Time": "15:43",
                 "Name": "Vishal",
                 "Type": "Express, UC",
                 "source": "Mangalore"
             },
             {
-                "Time": "03:55",
+                "Time": "15:55",
                 "Name": "Shree Annapoorneshwari",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:08",
+                "Time": "16:08",
                 "Name": "Mercy",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:12",
+                "Time": "16:12",
                 "Name": "Navadurga Prasad",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:21",
+                "Time": "16:21",
                 "Name": "Kanthi",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "04:26",
+                "Time": "16:26",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:40",
+                "Time": "16:40",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:44",
+                "Time": "16:44",
                 "Name": "Sangam",
                 "Type": "Local",
                 "source": "Udupi"
             },
             {
-                "Time": "04:46",
+                "Time": "16:46",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "04:58",
+                "Time": "16:58",
                 "Name": "Bharathi",
                 "Type": "Express",
                 "source": "Udupi"
             },
             {
-                "Time": "04:59",
+                "Time": "16:59",
                 "Name": "Vishal",
                 "Type": "Express",
                 "source": "Mangalore"
             },
             {
-                "Time": "05:07",
+                "Time": "17:07",
                 "Name": "Pranam",
                 "Type": "Local",
                 "source": "Kateel"
             },
             {
-                "Time": "05:40",
+                "Time": "17:40",
                 "Name": "Sangam",
                 "Type": "Local, UC",
                 "source": "Udupi"
             },
             {
-                "Time": "05:39",
+                "Time": "17:39",
                 "Name": "Rajarajeshwari",
                 "Type": "Express, UC",
                 "source": "Mangalore"
             },
             {
-                "Time": "05:49",
+                "Time": "17:49",
                 "Name": "Keerthi",
                 "Type": "Local, UC",
                 "source": "Udupi"
             },
             {
-                "Time": "05:51",
+                "Time": "17:51",
                 "Name": "Laxmi Ganesh",
                 "Type": "Express, UC",
                 "source": "Mangalore"
