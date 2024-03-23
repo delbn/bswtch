@@ -1,1109 +1,1109 @@
 [
-    {
-        "id": 0,
-        "SrcDes": "Karkala Bypass - Nitte",
-        "BusRoute": "Karkala - Mangalore",
-        "BusDetails": [
-            {
-                "Time": "07:41",
-                "Name": "Rajarajeshwari",
-                "Type": "Express",
-                "ReachesNitteAt": "07:50"
-            },
-            {
-                "Time": "07:45",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "ReachesNitteAt": "07:59"
-            },
-            {
-                "Time": "07:50",
-                "Name": "Vishal",
-                "Type": "Express",
-                "ReachesNitteAt": "07:59"
-            },
-            {
-                "Time": "07:52",
-                "Name": "Mercy",
-                "Type": "Local",
-                "ReachesNitteAt": "08:07"
-            },
-            {
-                "Time": "07:58",
-                "Name": "Naveen",
-                "Type": "Local",
-                "ReachesNitteAt": "08:12"
-            },
-            {
-                "Time": "08:00",
-                "Name": "Vishal",
-                "Type": "Express",
-                "ReachesNitteAt": "08:10"
-            },
-            {
-                "Time": "08:05",
-                "Name": "Ayra",
-                "Type": "Express",
-                "ReachesNitteAt": "08:15"
-            },
-            {
-                "Time": "08:05",
-                "Name": "Shahil",
-                "Type": "Local",
-                "ReachesNitteAt": "08:19"
-            },
-            {
-                "Time": "08:15",
-                "Name": "Vishal",
-                "Type": "Express",
-                "ReachesNitteAt": "08:25"
-            },
-            {
-                "Time": "08:25",
-                "Name": "Reshma",
-                "Type": "Express",
-                "ReachesNitteAt": "08:35"
-            },
-            {
-                "Time": "08:30",
-                "Name": "Sangam",
-                "Type": "Local",
-                "ReachesNitteAt": "08:45"
-            },
-            {
-                "Time": "08:35",
-                "Name": "Vishal ",
-                "Type": "Express",
-                "ReachesNitteAt": "08:47"
-            },
-            {
-                "Time": "08:48",
-                "Name": "Vishal",
-                "Type": "Express",
-                "ReachesNitteAt": "09:02"
-            },
-            {
-                "Time": "08:59",
-                "Name": "Annapoorneshwari",
-                "Type": "Express",
-                "ReachesNitteAt": "09:10"
-            },
-            {
-                "Time": "09:00",
-                "Name": "Jeevan",
-                "Type": "Local",
-                "ReachesNitteAt": "09:15"
-            },
-            {
-                "Time": "09:05",
-                "Name": "Mercy",
-                "Type": "Local",
-                "ReachesNitteAt": "09:21"
-            },
-            {
-                "Time": "09:10",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "ReachesNitteAt": "09:19"
-            },
-            {
-                "Time": "11:01",
-                "Name": "Padmambika",
-                "Type": "Express",
-                "ReachesNitteAt": "11:10"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "SrcDes": "Nitte - Belman - Padubidri",
-        "BusRoute": "Udupi - Mangalore",
-        "BusDetails": [
-            {
-                "Time": "08:00",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "08:10",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "08:45",
-                "Name": "Sangam",
-                "Type": "Local",
-                "destination": "Padubidri"
-            },
-            {
-                "Time": "08:46",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:20",
-                "Name": "Mercy",
-                "Type": "Local",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:20",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:30",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:45",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:54",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "09:58",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "09:59",
-                "Name": "Decent",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "10:05",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "10:11",
-                "Name": "Sangam",
-                "Type": "Local",
-                "destination": "Padubidri"
-            },
-            {
-                "Time": "10:18",
-                "Name": "Pranam",
-                "Type": "Local",
-                "destination": "Kateel"
-            },
-            {
-                "Time": "10:23",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "10:26",
-                "Name": "Reshma",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "10:36",
-                "Name": "Sangam",
-                "Type": "Fast Service - Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "10:50",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "11:08",
-                "Name": "Pranam",
-                "Type": "Local",
-                "destination": "Kateel"
-            },
-            {
-                "Time": "11:10",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "11:20",
-                "Name": "Christa Kiran",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "11:26",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "11:28",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "11:29",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "11:33",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "11:36",
-                "Name": "Jason",
-                "Type": "Local",
-                "destination": "Mulki"
-            },
-            {
-                "Time": "11:40",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "11:44",
-                "Name": "Rashmi Travels",
-                "Type": "Local",
-                "destination": "Udupi via Kapu"
-            },
-            {
-                "Time": "11:51",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:00",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:09",
-                "Name": "Rajarajeshwari",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:09",
-                "Name": "Shree Annapoorneshwari",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:11",
-                "Name": "Srilaxmi",
-                "Type": "Local",
-                "destination": "Kateel"
-            },
-            {
-                "Time": "12:18",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "12:25",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:33",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:35",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:38",
-                "Name": "Shree Padma",
-                "Type": "Fast Service - Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "12:45",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "12:52",
-                "Name": "Shahil",
-                "Type": "Local",
-                "destination": "Udupi via Padubidri"
-            },
-            {
-                "Time": "12:56",
-                "Name": "Rajarajeshwari",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "13:07",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "13:10",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "13:21",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "13:30",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "13:32",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "13:43",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "13:50",
-                "Name": "Bharathi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "13:59",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "14:00",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "14:07",
-                "Name": "Sangam",
-                "Type": "Local",
-                "destination": "Mulki"
-            },
-            {
-                "Time": "14:10",
-                "Name": "Sangam",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "14:15",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "14:34",
-                "Name": "Pranam",
-                "Type": "Local",
-                "destination": "Kateel"
-            },
-            {
-                "Time": "14:37",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "14:44",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "14:55",
-                "Name": "Pranam",
-                "Type": "Local",
-                "destination": "Kateel"
-            },
-            {
-                "Time": "14:57",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "15:05",
-                "Name": "Reshma",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "15:12",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "15:16",
-                "Name": "Star",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "15:20",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "15:31",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "15:33",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "15:43",
-                "Name": "Sangam",
-                "Type": "Fast Service - Local",
-                "destination": "Padubidri"
-            },
-            {
-                "Time": "15:45",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "15:48",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "15:54",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "15:59",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "16:10",
-                "Name": "Ayra",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "16:19",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "16:25",
-                "Name": "Naveen",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "16:29",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "04:30",
-                "Name": "Bharathi",
-                "Type": "Express",
-                "destination": "Padubidri"
-            },
-            {
-                "Time": "16:35",
-                "Name": "Sai Ram",
-                "Type": "Fast Service - Local",
-                "destination": "Padubidri"
-            },
-            {
-                "Time": "16:41",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "16:49",
-                "Name": "Shree Padma",
-                "Type": "Local",
-                "destination": "Udupi via Kapu"
-            },
-            {
-                "Time": "16:56",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "17:02",
-                "Name": "Mercy",
-                "Type": "Local",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "17:07",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "17:20",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "17:21",
-                "Name": "Shree Padma",
-                "Type": "Local",
-                "destination": "Udupi"
-            },
-            {
-                "Time": "17:22",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "17:38",
-                "Name": "Vishal",
-                "Type": "Express",
-                "destination": "Mangalore"
-            },
-            {
-                "Time": "23:59",
-                "Name": "Fake Bus",
-                "Type": "Express",
-                "ReachesNitteAt": "11:10"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "SrcDes": "Nitte - Karkala",
-        "BusRoute": "Udupi - Mangalore",
-        "BusDetails": [
-            {
-                "Time": "07:30",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "07:32",
-                "Name": "Reshma",
-                "Type": "Hybrid",
-                "source": "Udupi"
-            },
-            {
-                "Time": "07:35",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Shivmogga"
-            },
-            {
-                "Time": "07:51",
-                "Name": "Srilaxmi",
-                "Type": "Local",
-                "source": "Kateel"
-            },
-            {
-                "Time": "08:03",
-                "Name": "Kusuma",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "08:08",
-                "Name": "Milan",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "08:10",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "08:22",
-                "Name": "Mercy",
-                "Type": "Local",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "08:36",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "08:37",
-                "Name": "Keerthi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "08:41",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "09:17",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "09:20",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "09:49",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "09:51",
-                "Name": "Naveen",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "09:56",
-                "Name": "Naveen",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "10:08",
-                "Name": "P.M Travels",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "10:17",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "10:28",
-                "Name": "Padmambikaa",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "10:30",
-                "Name": "Jeevan",
-                "Type": "Local, UC",
-                "source": "Manchakal"
-            },
-            {
-                "Time": "10:55",
-                "Name": "Shree Padma",
-                "Type": "Local, UC",
-                "source": "Udupi via Kapu"
-            },
-            {
-                "Time": "11:01",
-                "Name": "Padmambikaa",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "11:17",
-                "Name": "Naveen",
-                "Type": "Local, UC",
-                "source": "Udupi"
-            },
-            {
-                "Time": "11:33",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "11:39",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "11:51",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "12:03",
-                "Name": "Shahil",
-                "Type": "Local",
-                "source": "Udupi via Padubidri"
-            },
-            {
-                "Time": "12:05",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:11",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:11",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "12:14",
-                "Name": "Nandini",
-                "Type": "Local",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:16",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:24",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:36",
-                "Name": "Vishal",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "12:43",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Mulki"
-            },
-            {
-                "Time": "12:44",
-                "Name": "Bharathi",
-                "Type": "Express",
-                "source": "Padubidri"
-            },
-            {
-                "Time": "12:50",
-                "Name": "Bharathi",
-                "Type": "Express",
-                "source": "Udupi"
-            },
-            {
-                "Time": "12:52",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "13:03",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "13:10",
-                "Name": "Milan",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "13:16",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "13:20",
-                "Name": "Keerthi",
-                "Type": "Fast Service - Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "13:23",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "13:35",
-                "Name": "Reshma",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "13:43",
-                "Name": "Christa Jyothi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "13:49",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "14:06",
-                "Name": "Pranam",
-                "Type": "Local",
-                "source": "Kateel"
-            },
-            {
-                "Time": "14:08",
-                "Name": "Padmambikaa",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "14:15",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "14:25",
-                "Name": "Rashmi Travels",
-                "Type": "Local",
-                "source": "Kateel"
-            },
-            {
-                "Time": "14:36",
-                "Name": "Naveen",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "14:38",
-                "Name": "Vishal",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "14:51",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "14:52",
-                "Name": "Christa Kiran",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "15:06",
-                "Name": "Naveen",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "15:09",
-                "Name": "Padmambikaa",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "15:23",
-                "Name": "Naveen",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "15:25",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "15:28",
-                "Name": "Ayra",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "15:32",
-                "Name": "Shree Padma",
-                "Type": "Local, UC",
-                "source": "Udupi via Kapu"
-            },
-            {
-                "Time": "15:40",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "15:43",
-                "Name": "Vishal",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "15:55",
-                "Name": "Shree Annapoorneshwari",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:08",
-                "Name": "Mercy",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:12",
-                "Name": "Navadurga Prasad",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:21",
-                "Name": "Kanthi",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "16:26",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:40",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:44",
-                "Name": "Sangam",
-                "Type": "Local",
-                "source": "Udupi"
-            },
-            {
-                "Time": "16:46",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "16:58",
-                "Name": "Bharathi",
-                "Type": "Express",
-                "source": "Udupi"
-            },
-            {
-                "Time": "16:59",
-                "Name": "Vishal",
-                "Type": "Express",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "17:07",
-                "Name": "Pranam",
-                "Type": "Local",
-                "source": "Kateel"
-            },
-            {
-                "Time": "17:40",
-                "Name": "Sangam",
-                "Type": "Local, UC",
-                "source": "Udupi"
-            },
-            {
-                "Time": "17:39",
-                "Name": "Rajarajeshwari",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "17:49",
-                "Name": "Keerthi",
-                "Type": "Local, UC",
-                "source": "Udupi"
-            },
-            {
-                "Time": "17:51",
-                "Name": "Laxmi Ganesh",
-                "Type": "Express, UC",
-                "source": "Mangalore"
-            },
-            {
-                "Time": "23:59",
-                "Name": "Fake Bus",
-                "Type": "Express",
-                "ReachesNitteAt": "11:10"
-            }
-        ]
-    }
+  {
+    "id": 0,a
+    "SrcDes": "Karkala Bypass - Nitte",
+    "BusRoute": "Karkala - Mangalore",
+    "BusDetails": [
+      {
+        "Time": "07:41",
+        "Name": "Rajarajeshwari",
+        "Type": "Express",
+        "ReachesNitteAt": "07:50"
+      },
+      {
+        "Time": "07:45",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "ReachesNitteAt": "07:59"
+      },
+      {
+        "Time": "07:50",
+        "Name": "Vishal",
+        "Type": "Express",
+        "ReachesNitteAt": "07:59"
+      },
+      {
+        "Time": "07:52",
+        "Name": "Mercy",
+        "Type": "Local",
+        "ReachesNitteAt": "08:07"
+      },
+      {
+        "Time": "07:58",
+        "Name": "Naveen",
+        "Type": "Local",
+        "ReachesNitteAt": "08:12"
+      },
+      {
+        "Time": "08:00",
+        "Name": "Vishal",
+        "Type": "Express",
+        "ReachesNitteAt": "08:10"
+      },
+      {
+        "Time": "08:05",
+        "Name": "Ayra",
+        "Type": "Express",
+        "ReachesNitteAt": "08:15"
+      },
+      {
+        "Time": "08:05",
+        "Name": "Shahil",
+        "Type": "Local",
+        "ReachesNitteAt": "08:19"
+      },
+      {
+        "Time": "08:15",
+        "Name": "Vishal",
+        "Type": "Express",
+        "ReachesNitteAt": "08:25"
+      },
+      {
+        "Time": "08:25",
+        "Name": "Reshma",
+        "Type": "Express",
+        "ReachesNitteAt": "08:35"
+      },
+      {
+        "Time": "08:30",
+        "Name": "Sangam",
+        "Type": "Local",
+        "ReachesNitteAt": "08:45"
+      },
+      {
+        "Time": "08:35",
+        "Name": "Vishal ",
+        "Type": "Express",
+        "ReachesNitteAt": "08:47"
+      },
+      {
+        "Time": "08:48",
+        "Name": "Vishal",
+        "Type": "Express",
+        "ReachesNitteAt": "09:02"
+      },
+      {
+        "Time": "08:59",
+        "Name": "Annapoorneshwari",
+        "Type": "Express",
+        "ReachesNitteAt": "09:10"
+      },
+      {
+        "Time": "09:00",
+        "Name": "Jeevan",
+        "Type": "Local",
+        "ReachesNitteAt": "09:15"
+      },
+      {
+        "Time": "09:05",
+        "Name": "Mercy",
+        "Type": "Local",
+        "ReachesNitteAt": "09:21"
+      },
+      {
+        "Time": "09:10",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "ReachesNitteAt": "09:19"
+      },
+      {
+        "Time": "11:01",
+        "Name": "Padmambika",
+        "Type": "Express",
+        "ReachesNitteAt": "11:10"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "SrcDes": "Nitte - Belman - Padubidri",
+    "BusRoute": "Udupi - Mangalore",
+    "BusDetails": [
+      {
+        "Time": "08:00",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "08:10",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "08:45",
+        "Name": "Sangam",
+        "Type": "Local",
+        "destination": "Padubidri"
+      },
+      {
+        "Time": "08:46",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:20",
+        "Name": "Mercy",
+        "Type": "Local",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:20",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:30",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:45",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:54",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "09:58",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "09:59",
+        "Name": "Decent",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "10:05",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "10:11",
+        "Name": "Sangam",
+        "Type": "Local",
+        "destination": "Padubidri"
+      },
+      {
+        "Time": "10:18",
+        "Name": "Pranam",
+        "Type": "Local",
+        "destination": "Kateel"
+      },
+      {
+        "Time": "10:23",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "10:26",
+        "Name": "Reshma",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "10:36",
+        "Name": "Sangam",
+        "Type": "Fast Service - Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "10:50",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "11:08",
+        "Name": "Pranam",
+        "Type": "Local",
+        "destination": "Kateel"
+      },
+      {
+        "Time": "11:10",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "11:20",
+        "Name": "Christa Kiran",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "11:26",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "11:28",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "11:29",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "11:33",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "11:36",
+        "Name": "Jason",
+        "Type": "Local",
+        "destination": "Mulki"
+      },
+      {
+        "Time": "11:40",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "11:44",
+        "Name": "Rashmi Travels",
+        "Type": "Local",
+        "destination": "Udupi via Kapu"
+      },
+      {
+        "Time": "11:51",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:00",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:09",
+        "Name": "Rajarajeshwari",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:09",
+        "Name": "Shree Annapoorneshwari",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:11",
+        "Name": "Srilaxmi",
+        "Type": "Local",
+        "destination": "Kateel"
+      },
+      {
+        "Time": "12:18",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "12:25",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:33",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:35",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:38",
+        "Name": "Shree Padma",
+        "Type": "Fast Service - Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "12:45",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "12:52",
+        "Name": "Shahil",
+        "Type": "Local",
+        "destination": "Udupi via Padubidri"
+      },
+      {
+        "Time": "12:56",
+        "Name": "Rajarajeshwari",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "13:07",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "13:10",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "13:21",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "13:30",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "13:32",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "13:43",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "13:50",
+        "Name": "Bharathi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "13:59",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "14:00",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "14:07",
+        "Name": "Sangam",
+        "Type": "Local",
+        "destination": "Mulki"
+      },
+      {
+        "Time": "14:10",
+        "Name": "Sangam",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "14:15",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "14:34",
+        "Name": "Pranam",
+        "Type": "Local",
+        "destination": "Kateel"
+      },
+      {
+        "Time": "14:37",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "14:44",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "14:55",
+        "Name": "Pranam",
+        "Type": "Local",
+        "destination": "Kateel"
+      },
+      {
+        "Time": "14:57",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "15:05",
+        "Name": "Reshma",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "15:12",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "15:16",
+        "Name": "Star",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "15:20",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "15:31",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "15:33",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "15:43",
+        "Name": "Sangam",
+        "Type": "Fast Service - Local",
+        "destination": "Padubidri"
+      },
+      {
+        "Time": "15:45",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "15:48",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "15:54",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "15:59",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "16:10",
+        "Name": "Ayra",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "16:19",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "16:25",
+        "Name": "Naveen",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "16:29",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "04:30",
+        "Name": "Bharathi",
+        "Type": "Express",
+        "destination": "Padubidri"
+      },
+      {
+        "Time": "16:35",
+        "Name": "Sai Ram",
+        "Type": "Fast Service - Local",
+        "destination": "Padubidri"
+      },
+      {
+        "Time": "16:41",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "16:49",
+        "Name": "Shree Padma",
+        "Type": "Local",
+        "destination": "Udupi via Kapu"
+      },
+      {
+        "Time": "16:56",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "17:02",
+        "Name": "Mercy",
+        "Type": "Local",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "17:07",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "17:20",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "17:21",
+        "Name": "Shree Padma",
+        "Type": "Local",
+        "destination": "Udupi"
+      },
+      {
+        "Time": "17:22",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "17:38",
+        "Name": "Vishal",
+        "Type": "Express",
+        "destination": "Mangalore"
+      },
+      {
+        "Time": "23:59",
+        "Name": "Fake Bus",
+        "Type": "Express",
+        "ReachesNitteAt": "11:10"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "SrcDes": "Nitte - Karkala",
+    "BusRoute": "Udupi - Mangalore",
+    "BusDetails": [
+      {
+        "Time": "07:30",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "07:32",
+        "Name": "Reshma",
+        "Type": "Hybrid",
+        "source": "Udupi"
+      },
+      {
+        "Time": "07:35",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Shivmogga"
+      },
+      {
+        "Time": "07:51",
+        "Name": "Srilaxmi",
+        "Type": "Local",
+        "source": "Kateel"
+      },
+      {
+        "Time": "08:03",
+        "Name": "Kusuma",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "08:08",
+        "Name": "Milan",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "08:10",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "08:22",
+        "Name": "Mercy",
+        "Type": "Local",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "08:36",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "08:37",
+        "Name": "Keerthi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "08:41",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "09:17",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "09:20",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "09:49",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "09:51",
+        "Name": "Naveen",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "09:56",
+        "Name": "Naveen",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "10:08",
+        "Name": "P.M Travels",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "10:17",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "10:28",
+        "Name": "Padmambikaa",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "10:30",
+        "Name": "Jeevan",
+        "Type": "Local, UC",
+        "source": "Manchakal"
+      },
+      {
+        "Time": "10:55",
+        "Name": "Shree Padma",
+        "Type": "Local, UC",
+        "source": "Udupi via Kapu"
+      },
+      {
+        "Time": "11:01",
+        "Name": "Padmambikaa",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "11:17",
+        "Name": "Naveen",
+        "Type": "Local, UC",
+        "source": "Udupi"
+      },
+      {
+        "Time": "11:33",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "11:39",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "11:51",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "12:03",
+        "Name": "Shahil",
+        "Type": "Local",
+        "source": "Udupi via Padubidri"
+      },
+      {
+        "Time": "12:05",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:11",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:11",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "12:14",
+        "Name": "Nandini",
+        "Type": "Local",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:16",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:24",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:36",
+        "Name": "Vishal",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "12:43",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Mulki"
+      },
+      {
+        "Time": "12:44",
+        "Name": "Bharathi",
+        "Type": "Express",
+        "source": "Padubidri"
+      },
+      {
+        "Time": "12:50",
+        "Name": "Bharathi",
+        "Type": "Express",
+        "source": "Udupi"
+      },
+      {
+        "Time": "12:52",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "13:03",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "13:10",
+        "Name": "Milan",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "13:16",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "13:20",
+        "Name": "Keerthi",
+        "Type": "Fast Service - Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "13:23",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "13:35",
+        "Name": "Reshma",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "13:43",
+        "Name": "Christa Jyothi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "13:49",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "14:06",
+        "Name": "Pranam",
+        "Type": "Local",
+        "source": "Kateel"
+      },
+      {
+        "Time": "14:08",
+        "Name": "Padmambikaa",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "14:15",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "14:25",
+        "Name": "Rashmi Travels",
+        "Type": "Local",
+        "source": "Kateel"
+      },
+      {
+        "Time": "14:36",
+        "Name": "Naveen",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "14:38",
+        "Name": "Vishal",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "14:51",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "14:52",
+        "Name": "Christa Kiran",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "15:06",
+        "Name": "Naveen",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "15:09",
+        "Name": "Padmambikaa",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "15:23",
+        "Name": "Naveen",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "15:25",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "15:28",
+        "Name": "Ayra",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "15:32",
+        "Name": "Shree Padma",
+        "Type": "Local, UC",
+        "source": "Udupi via Kapu"
+      },
+      {
+        "Time": "15:40",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "15:43",
+        "Name": "Vishal",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "15:55",
+        "Name": "Shree Annapoorneshwari",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:08",
+        "Name": "Mercy",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:12",
+        "Name": "Navadurga Prasad",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:21",
+        "Name": "Kanthi",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "16:26",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:40",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:44",
+        "Name": "Sangam",
+        "Type": "Local",
+        "source": "Udupi"
+      },
+      {
+        "Time": "16:46",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "16:58",
+        "Name": "Bharathi",
+        "Type": "Express",
+        "source": "Udupi"
+      },
+      {
+        "Time": "16:59",
+        "Name": "Vishal",
+        "Type": "Express",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "17:07",
+        "Name": "Pranam",
+        "Type": "Local",
+        "source": "Kateel"
+      },
+      {
+        "Time": "17:40",
+        "Name": "Sangam",
+        "Type": "Local, UC",
+        "source": "Udupi"
+      },
+      {
+        "Time": "17:39",
+        "Name": "Rajarajeshwari",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "17:49",
+        "Name": "Keerthi",
+        "Type": "Local, UC",
+        "source": "Udupi"
+      },
+      {
+        "Time": "17:51",
+        "Name": "Laxmi Ganesh",
+        "Type": "Express, UC",
+        "source": "Mangalore"
+      },
+      {
+        "Time": "23:59",
+        "Name": "Fake Bus",
+        "Type": "Express",
+        "ReachesNitteAt": "11:10"
+      }
+    ]
+  }
 ]
