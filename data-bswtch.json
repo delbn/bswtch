@@ -112,12 +112,6 @@
                 "Type": "Express",
                 "ReachesNitteAt": "11:10"
             },
-            {
-                "Time": "23:59",
-                "Name": "Fake Bus",
-                "Type": "Express",
-                "ReachesNitteAt": "11:10"
-            }
         ]
     },
     {
