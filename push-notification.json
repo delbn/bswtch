@@ -2,7 +2,7 @@
     "notify": true,
     "notification-type": "updation",
     "id": 1938483,
-    "notify-title": "New Update Available!",
+    "notify-title": "Update Available!",
     "notify-content": "Version 1.10.35 Beta",
     "app-version": "v1.10.35 Beta",
     "whats-new": [
