@@ -1,12 +1,14 @@
-[
-    {
-        "notify": false,
-        "notification-type":"updation",
-        "id": 1938483,
-        "notify-title": "Bus Watch update available!",
-        "notify-content": "Content goes here!",
-        "app-version": "1.0.0",
-        "whats-new": ["first one", "second one", "third one"],
-        "action-btn":"link"
-    }
-]
+  {
+    "notify": false,
+    "notification-type": "updation",
+    "id": 1938483,
+    "notify-title": "Bus Watch update available!",
+    "notify-content": "Content goes here!",
+    "app-version": "1.0.0",
+    "whats-new": [
+      "first one",
+      "second one",
+      "third one"
+    ],
+    "action-btn": "link"
+  }
