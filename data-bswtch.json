@@ -622,12 +622,6 @@
         "Name": "Vishal",
         "Type": "Express",
         "destination": "Mangalore"
-      },
-      {
-        "Time": "23:59",
-        "Name": "Fake Bus",
-        "Type": "Express",
-        "ReachesNitteAt": "11:10"
       }
     ]
   },
@@ -1097,12 +1091,6 @@
         "Name": "Laxmi Ganesh",
         "Type": "Express, UC",
         "source": "Mangalore"
-      },
-      {
-        "Time": "23:59",
-        "Name": "Fake Bus",
-        "Type": "Express",
-        "ReachesNitteAt": "11:10"
       }
     ]
   }
