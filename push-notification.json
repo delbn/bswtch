@@ -1,8 +1,8 @@
   {
-    "notify": false,
+    "notify": true,
     "notification-type": "updation",
     "id": 1938483,
-    "notify-title": "Check for updates!",
+    "notify-title": "Up to date!",
     "notify-content": "Current Version 1.10.30 Stable",
     "app-version": "v1.10.30",
     "whats-new": [
@@ -10,5 +10,5 @@
       "second one",
       "third one"
     ],
-    "action-btn": "https://www.github.com/delbingeorge/buswatch"
+    "action-btn": "https://github.com/delbingeorge/buswatch/blob/1c32193fcfe561ef4d78d9aea3a1b322ca3447b6/README.md"
   }
