@@ -1,6 +1,7 @@
 [
     {
         "notify": false,
+        "notification-type":"updation",
         "id": 1938483,
         "notify-title": "Bus Watch update available!",
         "notify-content": "Content goes here!",
