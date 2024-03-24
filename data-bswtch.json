@@ -2,7 +2,7 @@
   {
     "id": 0,
     "SrcDes": "Karkala Bypass - Nitte",
-    "BusRoute": "Karkala - Mangalore",
+    "BusRoute": "Local & Express",
     "BusDetails": [
       {
         "Time": "07:41",
@@ -117,7 +117,7 @@
   {
     "id": 1,
     "SrcDes": "Nitte - Belman - Padubidri",
-    "BusRoute": "Udupi - Mangalore",
+    "BusRoute": "Local & Express",
     "BusDetails": [
       {
         "Time": "08:00",
@@ -628,7 +628,7 @@
   {
     "id": 2,
     "SrcDes": "Nitte - Karkala",
-    "BusRoute": "Udupi - Mangalore",
+    "BusRoute": "Local & Express",
     "BusDetails": [
       {
         "Time": "07:30",
