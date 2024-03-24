@@ -1,5 +1,5 @@
   {
-    "notify": true,
+    "notify": false,
     "notification-type": "updation",
     "id": 1938483,
     "notify-title": "Update available!",
