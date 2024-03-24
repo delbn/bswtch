@@ -2,13 +2,13 @@
     "notify": false,
     "notification-type": "updation",
     "id": 1938483,
-    "notify-title": "Update available!",
-    "notify-content": "New features + Bug fix",
-    "app-version": "v1.10.20",
+    "notify-title": "Check for updates!",
+    "notify-content": "Current Version 1.10.30 Stable",
+    "app-version": "v1.10.30",
     "whats-new": [
       "first one",
       "second one",
       "third one"
     ],
-    "action-btn": "https://www.delb.in"
+    "action-btn": "https://www.github.com/delbingeorge/buswatch"
   }
